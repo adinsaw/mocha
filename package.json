@@ -8,7 +8,7 @@
     "tsc": "tsc",
     "tsc:w": "tsc -w",
     "typings": "typings",
-    	"test": "mocha --reporter mocha-junit-reporter"	
+    	"test": "mocha test --reporter mocha-junit-reporter"	
   },
   "license": "ISC",
   "dependencies": {
